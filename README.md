@@ -4,7 +4,7 @@
 
 # 🔗 Índice
 
-- [Título](#-climanow---app-para-previsão-do-tempo)
+- [Título](#%EF%B8%8F-climanow---app-para-previsão-do-tempo)
 
 - [Descrição do Projeto](#-descrição-do-projeto)
 
