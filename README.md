@@ -1,10 +1,10 @@
 
 
-# ☁️ ClimaNow - App para Previsao do tempo
+# ☁️ ClimaNow - App para Previsão do tempo
 
 # 🔗 Índice
 
-- [Título](#-ClimaNow---App-para-Previsão-do-tempo)
+- [Título](#-climaNow---app-para-previsão-do-tempo)
 
 - [Descrição do Projeto](#-descrição-do-projeto)
 
