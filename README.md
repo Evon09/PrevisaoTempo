@@ -1,6 +1,6 @@
 
 
-# ☁️ ClimaNow - App para Previsão do tempo
+# ☁️ TimeNow - Site para Previsão do tempo
 
 # 🔗 Índice
 
@@ -16,8 +16,8 @@
 
 # 📋 Descrição do Projeto
 
-Bem-vindo ao ClimaNow, sua fonte confiável para previsões meteorológicas em tempo real, permitindo que você esteja sempre preparado para as condições climáticas.
-O ClimaNow é um aplicativo de previsão do tempo projetado para oferecer informações meteorológicas precisas e atualizadas. Ele fornece acesso a previsões detalhadas para diferentes localidades, incluindo temperatura, umidade, velocidade do vento e muito mais. O app é perfeito para planejar suas atividades ao ar livre, viagens e até mesmo para decidir o que vestir, garantindo que você esteja sempre um passo à frente das mudanças climáticas.
+Bem-vindo ao TimeNow, sua fonte confiável para previsões meteorológicas em tempo real, permitindo que você esteja sempre preparado para as condições climáticas.
+O TimeNow é um site de previsão do tempo projetado para oferecer informações meteorológicas precisas e atualizadas. Ele fornece acesso a previsões detalhadas para diferentes localidades, incluindo temperatura, umidade, velocidade do vento e muito mais. O site é perfeito para planejar suas atividades ao ar livre, viagens e até mesmo para decidir o que vestir, garantindo que você esteja sempre um passo à frente das mudanças climáticas.
 
 # ⚙ Funcionalidades
 
@@ -28,7 +28,7 @@ O ClimaNow é um aplicativo de previsão do tempo projetado para oferecer inform
 # 💻 Tecnologias Utilizadas
 
 - Figma;
-- Flutter;
+- React;
   
 # 🔨 Status do Projeto
 
