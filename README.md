@@ -33,3 +33,10 @@ O TimeNow é um site de previsão do tempo projetado para oferecer informações
 # 🔨 Status do Projeto
 
 ![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
+# Run
+```
+docker compose up -d
+```
+Open:
+![http://localhost:3000/](http://localhost:3000/)
