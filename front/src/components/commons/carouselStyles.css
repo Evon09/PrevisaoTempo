@@ -1,0 +1,20 @@
+/* Adapte conforme necessário para atender aos requisitos de posicionamento */
+.custom-prev-arrow,
+.custom-next-arrow {
+  width: 30px; /* Ajuste a largura conforme necessário */
+  height: 30px; /* Ajuste a altura conforme necessário */
+  position: absolute;
+  top: 50%; /* Posiciona as setas verticalmente no centro */
+  transform: translateY(
+    -50%
+  ); /* Ajusta a posição verticalmente para o centro */
+  background-color: #fff; /* Ajuste a cor de fundo conforme necessário */
+}
+
+.custom-prev-arrow {
+  left: 0px; /* Posiciona a seta à esquerda */
+}
+
+.custom-next-arrow {
+  right: 0px; /* Posiciona a seta à direita */
+}

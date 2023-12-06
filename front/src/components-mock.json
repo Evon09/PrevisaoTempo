@@ -1,0 +1,16 @@
+{
+  "horizontal_cards": [
+    {
+      "cidade": "Medianeira",
+      "pais": "BR",
+      "icon": "01d",
+      "img": {
+        "url": "https://source.unsplash.com/1600x900/?paris"
+      },
+      "info1": "info1",
+      "info2": "info2",
+      "info3": "info3",
+      "info4": "info4"
+    }
+  ]
+}
